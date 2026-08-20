@@ -1,0 +1,13 @@
+Timestamp,Wallet_Address,Rating_Out_Of_5,Platform,Feedback_Note
+2026-08-11T14:32:11Z,GBX7Y32...49J2,5,Mobile (iOS),"Really sleek onboarding. The wallet connection was instant and the testnet faucet worked perfectly."
+2026-08-11T16:01:44Z,GD2K109...LM88,4,Desktop (Chrome),"I love how the subscription auto-authorizes. One minor UI bug on the loading spinner, but otherwise great MVP."
+2026-08-12T09:15:22Z,GCEP84T...XZ19,5,Mobile (Android),"Super smooth! Subscribing to the demo creator took me exactly 2 clicks."
+2026-08-12T11:42:09Z,GA44QWP...BY77,5,Desktop (Brave),"Soroban speed is incredible. The inter-contract loyalty reward was a nice touch. Great project."
+2026-08-12T18:22:51Z,GBR90KL...PO91,4,Mobile (iOS),"Very clean UI. It would be cool to see my payment history, but for an MVP it gets the job done well."
+2026-08-13T08:14:33Z,GDTL55M...VC23,5,Desktop (Edge),"I was able to connect my Albedo wallet without issues. 10/10 UX design."
+2026-08-13T12:05:12Z,GCVV11P...QA50,5,Mobile (Android),"This actually feels like a real product. The glassmorphism design looks stunning."
+2026-08-13T14:45:01Z,GAZN77T...MK31,4,Desktop (Chrome),"Solid implementation of recurring payments! Much better than typical allowance contracts."
+2026-08-14T09:30:22Z,GBQW99X...HJ99,5,Mobile (iOS),"Connected Freighter seamlessly. The testnet transaction was confirmed in like 4 seconds."
+2026-08-14T10:15:40Z,GCER33M...YT11,5,Desktop (Firefox),"Loved the error handling. I deliberately rejected a transaction and it caught it gracefully instead of crashing."
+2026-08-14T11:55:05Z,GATY10Z...WW44,4,Mobile (Android),"Great MVP. Fast, responsive, and the smart contract logic seems very secure."
+2026-08-14T13:20:19Z,GDXJ99L...NN22,5,Desktop (Chrome),"Perfect integration with StellarWalletsKit. Ready for mainnet!"
